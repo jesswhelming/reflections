@@ -1,0 +1,10 @@
+
+
+
+What happends when you initialize a repository? Why do you need to do it?
+
+A: .git file is created in that folder and maybe it contain commits.
+
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+A: staging area makes file to get ready to be committed
